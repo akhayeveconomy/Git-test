@@ -5,11 +5,3 @@ and this one
 
 lines for git gui
 and this one also for git gui
-
-
-new lines 1
-new lines 2
-
-another new lines 1
-another new lines 2
------------------------
