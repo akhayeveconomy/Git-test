@@ -7,3 +7,6 @@ lines for git gui
 and this one also for git gui
 
 new one
+
+3rd line new
+3rd 2nd line new
