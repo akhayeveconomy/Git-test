@@ -6,12 +6,4 @@ and this one
 lines for git gui
 and this one also for git gui
 
-new one
-
-new 4th line
-new 4th second line
-
-
-new feature line
-
-when back to main
+added feature line
