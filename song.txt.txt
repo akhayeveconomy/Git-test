@@ -8,3 +8,5 @@ and this one also for git gui
 
 added feature line
 
+for tag only
+
